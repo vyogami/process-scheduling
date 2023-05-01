@@ -29,7 +29,7 @@ This program is a simple implementation of process scheduling algorithms and can
 
 ## Contributing
 
-We welcome contributions to C Forge from the community. If you would like to contribute, please follow these steps:
+We welcome contributions to Process Scheduling from the community. If you would like to contribute, please follow these steps:
 
 1. Fork this repository
 2. Create a new branch (`git checkout -b feature/my-feature`)
