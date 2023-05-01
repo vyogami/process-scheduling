@@ -38,3 +38,7 @@ We welcome contributions to C Forge from the community. If you would like to con
 5. Open a pull request
 
 Please ensure that your code is well-documented and follows the [C Programming Style Guidelines](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
